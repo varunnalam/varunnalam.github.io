@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Varun Nalam"
+title                    : "VarunNalam"
 title_separator          : "-"
 name                     : &name "Varun Nalam"
 description              : &description "PhD Candidate, Arizona State University"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=j8AtLDYAAAAJ&hl=en&oi=ao"
-  email            :    "varunnalam@gmail.com"
+  email            : "varunnalam@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
