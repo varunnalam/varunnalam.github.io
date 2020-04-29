@@ -1,5 +1,5 @@
 ---
-title: "Multi-axial Robotic Platform"
+title: "Multi-axial Robotic Platform for Neuromusclar Analysis of the Ankle"
 excerpt: "Developed a novel patented multiaxial robotic platform for system identification of human ankle<br/>"
 collection: portfolio
 ---

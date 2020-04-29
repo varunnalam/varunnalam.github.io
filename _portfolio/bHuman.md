@@ -1,5 +1,5 @@
 ---
-title: "Neuromuscular Modeling of Human Ankle"
+title: "Neuromuscular Modeling of Human Ankle for Rehabilitation and Assistance"
 excerpt: "Developed a universal model of the human ankle that can predict ankle behavior during various daily tasks such as balance and locomotion in a wide range of environments<br/>"
 collection: portfolio
 ---
