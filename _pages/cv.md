@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[Resume]('/files/Varun_Nalam_Resume.pdf')
+[Resume]("varunnalam.github.io/files/Varun_Nalam_Resume.pdf")
 
 [Academic CV]('/files/Varun_Nalam_Resume.pdf')
