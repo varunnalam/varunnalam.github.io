@@ -31,15 +31,11 @@
       {% else if post.url contains "proj"%}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% else %}
-        <a href="{{post.url| prepend:"https://"}}" rel="permalink">{{ title }}</a>      {% endif %}
+        <a href="{{post.url| prepend:"https://"}}" rel="permalink">{{ title }}</a>      
+	  {% endif %}
     </h2>
     
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{post.url | prepend:"https://"}}"></i><span class="sr-only">Permalink</span></a>
 
-      {% endif %}
-    </h2>
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
