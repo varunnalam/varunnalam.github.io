@@ -50,8 +50,8 @@
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{permalink}}"> Read more</a></strong></p>
     {% endif %}
     {% if post.citation and post.paperurl %}
-<<<<<<< HEAD
-      Authors: { post.citation } <a href="permalink"><u>{ post.paperurl }</u></a>
+
+      Authors: {{ post.citation }} 
     {% elsif post.citation %}
       Authors: {{ post.citation }} 
 
