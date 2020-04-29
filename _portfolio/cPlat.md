@@ -10,6 +10,8 @@ collection: portfolio
 Developed a multiaxial platform capable of simulating various haptic environments that humans encounter during their daily lives. The platform can further perturb the ankle during functional tasks to estimate human ankle impedance.
 <br>
 <br>
-<video width="320" height="240" controls>
+<div style="text-align:center;">
+<video width="640" height="480" controls>
   <source src="/images/AnkleRoboticPlatform.mp4" type="video/mp4">
+  </div>
 
