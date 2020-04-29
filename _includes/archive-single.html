@@ -54,13 +54,7 @@
       Authors: { post.citation } <a href="permalink"><u>{ post.paperurl }</u></a>
     {% elsif post.citation %}
       Authors: {{ post.citation }} 
-=======
-      <p>Authors: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
-    {% elsif post.citation %}
-      Authors: {{ post.citation }}
->>>>>>> parent of c5e1f19... Update archive-single.html
-    {% elsif post.paperurl %}
-      Download <a href=" { post.paperurl } "><u>here</u></a>
+
     {% endif %}
 
   </article>
