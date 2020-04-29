@@ -28,7 +28,7 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        <a href="{{post.url}}"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{post.url | prepend:"https://"}}"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{post.url}}" rel="permalink">{{ title }}</a>
       {% endif %}
