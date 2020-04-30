@@ -10,4 +10,8 @@ The study demonstrated the feasibility of a 6-week, visuomotor ankle training pr
 
 <br>
 <br>
+<div style="text-align:center;">
+
+  <img src="/images/stroke.png">
+  </div>
 
