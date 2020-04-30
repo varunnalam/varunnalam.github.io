@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "VarunNalam"
+title                    : "Varun Nalam"
 title_separator          : "-"
 name                     : &name "Varun Nalam"
 description              : &description "PhD Candidate, Arizona State University"
