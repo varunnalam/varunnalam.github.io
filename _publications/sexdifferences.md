@@ -5,7 +5,7 @@ permalink: ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10
 
 date: 2020-4-30
 venue: 'IEEE Transactions on Biomedical Engineering'
-citation: 'Etmyntrude Adjei, <i><b>Varun Nalam</b></i>, Hyunglae Lee'
+citation: 'Ermyntrude Adjei, <i><b>Varun Nalam</b></i>, Hyunglae Lee'
 ---
 
 
