@@ -1,6 +1,6 @@
 ---
 title: "Sex Differences in Human Ankle Stiffness during Standing Balance"
-collection: topublications
+collection: teaching
 permalink: ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10
 
 date: 2020-4-30
