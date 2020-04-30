@@ -43,7 +43,7 @@
         {% if post.collection == 'teaching' %}
            {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
         {% elsif post.collection == 'publications' %}
-          Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
 		{% else %}
           Submitted to<i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}   
         {% endif %}
