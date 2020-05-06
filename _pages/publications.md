@@ -23,7 +23,7 @@ A detailed list of my articles can be found on [Google Scholar](https://scholar.
   {% endif %}
 {% endfor %}
 
-<h2>Conference Papers</h2>
+<h2>Conferences</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'conference' %}
       {% include archive-single.html %}
