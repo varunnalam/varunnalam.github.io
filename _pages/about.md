@@ -15,4 +15,4 @@ Prior to my work in rehabilitation, I was developing embedded systems and contro
 
 Over the last 10 years, I have been working in various fields of robotics such as Mobile robots, Multi-agent systems, Human-Robot Interaction, Industrial Robots, Surgical robots and Rehabilitation robotics focusing on Embedded systems and Controls. My exposure to the state of art in Embedded systems and Control along with the skills developed as part of my curriculum in Mechanical Engineering helped me in developing a well rounded skillset required for Design, Development and Control of Robotic systems for a wide range of applications. 
 
-I am always looking for opportunities where I can combine my research accumen with my entreprenurial spirit to solve real world problems using Robotics.
+I am always looking for opportunities where I can combine my research accumen with my entrepreneurial spirit to solve real world problems using Robotics.
