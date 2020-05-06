@@ -29,10 +29,3 @@ A detailed list of my articles can be found on [Google Scholar](https://scholar.
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-
-<h2>Academic</h2>
-{% for post in site.publications reversed %}
-  {% if post.pubtype == 'academic' %}
-      {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
