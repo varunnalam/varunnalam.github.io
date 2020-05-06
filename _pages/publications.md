@@ -15,9 +15,7 @@ A detailed list of my articles can be found on [Google Scholar](https://scholar.
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
 <h2>Journal Articles</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
