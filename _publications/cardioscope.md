@@ -6,6 +6,7 @@ permalink: asmedigitalcollection.asme.org/mechanismsrobotics/article-abstract/8/
 date: 2016-10-01
 venue: 'Journal of Mechanisms and Robotics'
 citation: 'Zheng Li,Min Zin Oo, <i><b>Varun Nalam</b></i>, Vu Duc Thang , Hongliang Ren , Theodoros Kofidis , Haoyong Yu'
+pubtype: 'journal'
 ---
 
 
