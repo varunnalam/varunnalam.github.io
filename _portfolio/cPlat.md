@@ -7,7 +7,7 @@ collection: portfolio
 <br>
 <br>
 <br>
-Developed a multiaxial platform capable of simulating various haptic environments that humans encounter during their daily lives. The platform can further perturb the ankle during functional tasks to estimate human ankle impedance.
+Developed a multiaxial platform capable of simulating various haptic environments that humans encounter during their daily lives. The platform can further perturb the ankle during functional tasks to estimate human ankle impedance. The platform uses a force plate on the top of it which is used for feedback for an impedance controller. The system is implemented using a simulink real time operating system to perform various experiments which would provide insights into human ankle behavior and diagnose altered ankle mechanics in stroke and Multiple Sclerosis survivors. The project entailed design and developement of the robotic platform followed by the development of the embedded system and control system using Simulink Real Time Controller.
 <br>
 <br>
 <div style="text-align:center;">
