@@ -1,6 +1,8 @@
 ---
 title: "Autonomous Multi-agent Robosoccer"
-excerpt: "Developed an intelligent multi-agent system that can compete in robosoccer through real time decision making and cooperation<br/>"
+excerpt: "Developed an intelligent multi-agent system that can compete in robosoccer through real time decision making and cooperation<br/>
+<b>Duration: May 2011-May 2013</b>
+<br/>Contribution: Embedded System, Low and High Level Controllers, Decisionmaking Algorithms"
 collection: portfolio
 ---
 <br>

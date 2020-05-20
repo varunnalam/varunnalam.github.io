@@ -1,6 +1,7 @@
 ---
 title: "Wireless Sensor Network for Continuous Monitoring and Remote Diagnosis for the Elderly at Risk of Falls"
-excerpt: "Conceptualized and developed a wearable wireless Vital Health sign monitoring device which acquires and analyzes ECG,Heartrate,Posture, Gait,Activity and Surface Body Temperature.<br/>"
+excerpt: "Conceptualized and developed a wearable wireless Vital Health sign monitoring device which acquires and analyzes ECG,Heartrate,Posture, Gait,Activity and Surface Body Temperature.<br/><b>Duration: January 2015-July 2015</b>
+<br/>Contribution: Development of Sensor Network, Pattern Recognition Algorithm"
 collection: portfolio
 ---
 <br>

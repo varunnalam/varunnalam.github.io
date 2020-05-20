@@ -1,7 +1,8 @@
 ---
 title: "Portable Gait Analysis and Rehabilitation System"
 excerpt: "Developed an economic gait analysis system for rehabilitation of patients in low income countries<br/>
-<b>Duration: May 2013-May 2014</b>"
+<b>Duration: May 2013-May 2014</b>
+<br/>Contribution: Embedded System, Data Acquisition System, Learning Algorithm for Gait Analysis"
 collection: portfolio
 
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Multi-axial Robotic Platform for Neuromusclar Analysis of the Ankle"
 excerpt: "Developed a novel patented multiaxial robotic platform for system identification of human ankle<br/>
-<b>Duration: August 2015-May 2019</b>"
+<b>Duration: August 2015-May 2020</b>
+<br/>Contribution: Design, Development, Control and Embedded System (Position and Haptic Controller)"
 collection: portfolio
 ---
 <br>

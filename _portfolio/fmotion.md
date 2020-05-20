@@ -1,6 +1,8 @@
 ---
 title: "Motion Adaptation Device for Human Robot Interaction"
-excerpt: "Developed a wearable device that can record, analyze and adapt human arm motion to robotic systems<br/>"
+excerpt: "Developed a wearable device that can record, analyze and adapt human arm motion to robotic systems<br/>
+<b>Duration: May 2013-May 2014</b>
+<br/>Contribution: Conceptualization and Impelementation of the Sensor Network and Control Algorightm"
 collection: portfolio
 ---
 <br>
