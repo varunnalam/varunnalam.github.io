@@ -12,3 +12,9 @@ collection: portfolio
 <br>
 <br>
 
+
+<div style="text-align:center;">
+<video width="640" height="480" controls>
+  <source src="/images/nonlinear.mp4" type="video/mp4">
+  </div>
+
