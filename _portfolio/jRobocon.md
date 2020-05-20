@@ -11,7 +11,7 @@ collection: portfolio
 <br>
 ABU Robocon is a national level competition,in which a team of autonomous and manually controlled robots compete with other teams in finishing a set of predetermined tasks in minimum time.The tasks are designed to test various skills of the teams such as design,algorithms,control and cooperation.
  
-Represented IIT Madras at a National level robotic competition and led the team to 5th place in 2011.Documentation of the project is found [here]("/files/robocon.pdf").
+Represented IIT Madras at a National level robotic competition and led the team to 5th place in 2011.Documentation of the project is found [here](https://varunnalam.github.io/files/robocon.pdf).
 
 <div style="text-align:center;">
 <video width="640" height="480" controls>
