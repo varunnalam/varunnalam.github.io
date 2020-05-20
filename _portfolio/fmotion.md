@@ -12,3 +12,7 @@ The project aims at development of a device which can analyze and replicate Huma
 <br>
 <br>
 
+<div style="text-align:center;">
+<video width="640" height="480" controls>
+  <source src="/images/mad2.mp4" type="video/mp4">
+  </div>
