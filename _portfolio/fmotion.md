@@ -9,6 +9,8 @@ collection: portfolio
 <br>
 <br>
 The project aims at development of a device which can analyze and replicate Human motion on different robotic devices. The system uses contact based sensors which gather kinematic of human arm and transmit it to a central processor. The arm data is then adapted to the dynamics of the robot to produce a seamless control of the robot. The main motivation behind the project was to devise more intuitive control strategies for Human Robot Interaction , increasing the utlization of robots in fields of medicine and construction to improve safety and quality of life.
+
+The project enttailed data acquision from the sensor sleeve, signal processing and develoment of forward and inverse kinematics for different robotic arms.
 <br>
 <br>
 
