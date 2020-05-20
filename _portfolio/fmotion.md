@@ -16,5 +16,5 @@ The project entailed data acquision from the sensor sleeve, signal processing an
 
 <div style="text-align:center;">
 <video width="640" height="480" controls>
-  <source src="/images/mad2.mp4" type="video/mp4">
+  <source src="/images/mad1.mp4" type="video/mp4">
   </div>
