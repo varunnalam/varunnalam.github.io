@@ -1,7 +1,7 @@
 ---
 title: "Neuromuscular Modeling of Human Ankle for Rehabilitation and Assistance"
 excerpt: "Developed a universal model of the human ankle that can predict ankle behavior during various daily tasks such as balance and locomotion in a wide range of environments<br/>
-<b>Duration: August 2015-December 2020</b>
+<b>Duration: August 2015-May 2020</b>
 <br/><b>Contribution</b>: Design of Experiments, Neuromuscular Analysis and Modeling, Real Time GUI"
 collection: portfolio
 ---
