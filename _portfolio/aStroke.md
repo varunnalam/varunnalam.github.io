@@ -1,8 +1,8 @@
 ---
 title: "Robotic Rehabilitation of Patients Affected by Stroke"
-excerpt: "Improved paretic ankle control for patients affected by stroke using a novel robotic platform<br/>"
+excerpt: "Improved paretic ankle control for patients affected by stroke using a novel robotic platform<br/>
 <b>Duration: August 2018-December 2018</b>
-<br/>Contribution: Design and Implementation of Rehabilitation Protocol"
+<br/><b>Contribution</b>: Design and Implementation of Rehabilitation Protocol"
 collection: portfolio
 ---
 <br>

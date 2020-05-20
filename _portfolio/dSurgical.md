@@ -2,7 +2,7 @@
 title: "Development of Flexible Robotic Endoscopes for Minimally Invasive Cardiac Surgery"
 excerpt: "Developed the embedded system and controls for a flexible robotic endoscope to be used in cardiac surgery <br/>
 <b>Duration: October 2014-July 2015</b>
-<br/>Contribution: Developement of control system and electronics for robotic and hand held endoscope"
+<br/><b>Contribution</b>: Developement of Control System and Electronics for Robotic and Hand-held Endoscope"
 collection: portfolio
 ---
 <br>

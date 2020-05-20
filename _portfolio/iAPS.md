@@ -2,7 +2,7 @@
 title: "Accident Pevention and Emergency Response System"
 excerpt: "Developed a sensor network that can analyze local conditions to minimize the risk of road accidents<br/>
 <b>Duration: May 2010-December 2010, August 2013-February 2014</b>
-<br/>Contribution: Conceptualization, Sensor Network, Fuzzy Algorithms"
+<br/><b>Contribution</b>: Conceptualization, Sensor Network, Fuzzy Algorithms"
 collection: portfolio
 
 ---
