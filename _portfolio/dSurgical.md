@@ -13,3 +13,8 @@ Two such endoscopes have been designed for two specific applications. The first 
 <br>
 <br>
 
+<div style="text-align:center;">
+<video width="640" height="480" controls>
+  <source src="/images/ctsm.mp4" type="video/mp4">
+  </div>
+
