@@ -15,5 +15,5 @@ The objective of the project is to acquire vital signs reliably and continuously
 
 <div style="text-align:center;">
 
-  <img src="/images/sensor.jpg">
+  <img src="/images/sensor.png">
   </div>
