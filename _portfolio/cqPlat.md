@@ -1,6 +1,6 @@
 ---
-title: "Elevated Walkway Setup for Locomotion Studies"
-excerpt: "Conceptualized and developed an elevated walkway to integrate the robotic platform for ankle locomotion studies<br/>
+title: "Instrumented Walkway Setup for Locomotion Studies"
+excerpt: "Conceptualized and developed an instrumented walkway to integrate the robotic platform for ankle locomotion studies<br/>
 <b>Duration: August 2015-May 2020</b>
 <br/><b>Contribution</b>: Design, Fabrication and Development."
 collection: portfolio
@@ -8,7 +8,7 @@ collection: portfolio
 <br>
 <br>
 <br>
-Developed an elevated walkway which included concpetualization, design and development of an elevated structure into which a robotic platform can be recessed. The project involed designing the safety harness system which was then developed in collaboration with Mobility Research Inc, Tempe.
+Developed an elevated walkway which included concpetualization, design and development of an elevated structure into which a robotic platform can be recessed. The project involved designing the safety harness system which was then developed in collaboration with Mobility Research Inc, Tempe. The walkway is integrated with the robotic platform, a motion capture system and an EMG sensor system for neuromuscular analysis.
 <br>
 <br>
 <div style="text-align:center;">
