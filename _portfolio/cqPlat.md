@@ -1,7 +1,7 @@
 ---
 title: "Instrumented Walkway Setup for Locomotion Studies"
 excerpt: "Conceptualized and developed an instrumented walkway to integrate the robotic platform for ankle locomotion studies<br/>
-<b>Duration: August 2015-May 2020</b>
+<b>Duration: January 2018-July 2018</b>
 <br/><b>Contribution</b>: Design, Fabrication and Development."
 collection: portfolio
 ---
